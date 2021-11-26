@@ -1,0 +1,37 @@
+{
+  "id": "2947114",
+  "name": "team",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8122208",
+      "name": "个人目标",
+      "font_class": "gerenmubiao",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "5838820",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e878",
+      "unicode_decimal": 59512
+    },
+    {
+      "icon_id": "7503119",
+      "name": "骑车",
+      "font_class": "qiche",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "16399024",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e85f",
+      "unicode_decimal": 59487
+    }
+  ]
+}
